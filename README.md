@@ -8,7 +8,7 @@ General rules to be considered when you start developing on the sahara health ar
 
 - docker [Installation](https://docs.docker.com/engine/install/ubuntu/)
 - kubectl [Installation](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
-- minikube [Installation] (https://minikube.sigs.k8s.io/docs/start/)
+- minikube [Installation](https://minikube.sigs.k8s.io/docs/start/)
 
 ## Build and push docker-images
 
