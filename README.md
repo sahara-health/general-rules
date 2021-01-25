@@ -20,6 +20,8 @@ General rules to be considered when you start developing on the sahara health ar
 
 ` docker push [image name]`
 
+the image name must be: `saharahealth/[some name]`
+
 ## Kubernetes coninuous local development
 
 We are going to make it a little bit manually, but it has to be always the same so we can define it here.
